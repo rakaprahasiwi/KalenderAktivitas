@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1465550979 source:d:\kalender\fungsi.c
+	"header.h"
+
+1465550979 d:\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1465552065 source:d:\kalender\main.c
+	"header.h"
+
+1465958311 source:d:\my documents\raka\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\fungsi.c
+	"header.h"
+
+1465911481 d:\my documents\raka\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1465916565 source:d:\my documents\raka\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\main.c
+	"header.h"
+
+1465958311 source:d:\documents\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\fungsi.c
+	"header.h"
+
+1465911481 d:\documents\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1465916565 source:d:\documents\document\it udinus\semester 2\algoritma pemrograman\praktek\tugas\tugas besar alpro\kalender\main.c
+	"header.h"
+
